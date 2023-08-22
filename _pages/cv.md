@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Positions
+# Positions
 ======
 * September 2023: Postdoctoral Researcher
   * Max Planck Institut for Astronomy (MPIA)
