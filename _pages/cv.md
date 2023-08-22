@@ -22,8 +22,6 @@ redirect_from:
 * MPhil in Physics at the University of Cambridge, 2019
 * BSc at University of Vienna, 2018
 
-## Publications
-{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
 
 ## Seminar talks
 * Guest speaker at STFC Strategy Team awayday, 14 June 2023
