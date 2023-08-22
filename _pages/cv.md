@@ -17,11 +17,13 @@ redirect_from:
   * University of Exeter
   * Advisor: Nathan Mayne
 
-
 ## Education
 * PhD in Physics, University of Warwick, 2023
 * MPhil in Physics at the University of Cambridge, 2019
 * BSc at University of Vienna, 2018
+
+## Publications
+{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
 
 ## Seminar talks
 * Guest speaker at STFC Strategy Team awayday, 14 June 2023
