@@ -19,6 +19,8 @@ redirect_from:
 
 ## Education
 * PhD in Physics, University of Warwick, 2023
+  * Title: Low Resolution Transmission Spectroscopy of Exoplanet Atmospheres using Ground-based and Space Telescopes
+  * Supervisor: Peter Wheatley
 * MPhil in Physics at the University of Cambridge, 2019
 * BSc at University of Vienna, 2018
 
