@@ -34,7 +34,7 @@ Seminar talks
 * Astroseminar, University of Exeter, 11 January 2023
 * Exoplanet Seminars, Observatoire de Geneve, 1 April 2022
 * eIAYC seminar series, International Workshop for Astronomy (IWA), 22 July 2021
-* Exoplanet Pizza Lunch, Centre for Astrophysics (CfA) | Harvard & Smithsonian, 23 March 2021
+* Exoplanet Pizza Lunch, Centre for Astrophysics (CfA) Harvard & Smithsonian, 23 March 2021
 * Planet Formation Group Seminar, University of Heidelberg, Zentrum für Astronomie (ZAH), 15 July 2020
 
 
