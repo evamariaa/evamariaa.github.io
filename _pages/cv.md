@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Positions
-* September 2023: Postdoctoral Researcher
+* since September 2023: Postdoctoral Researcher
   * Max Planck Institut for Astronomy (MPIA)
   * Advisors: Tom Mikal-Evans and Laura Kreidberg
 * July - August 2023: Postdoctoral Researcher
