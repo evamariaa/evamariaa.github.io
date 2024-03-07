@@ -8,7 +8,3 @@ venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-harps-search-for-exoplanets-xlv-hd13808bc.pdf'
 citation: 'Ahrer, E. et al. (2021), MNRAS, 503, 1248'
 ---
-
-[Download paper here](http://evamariaa.github.io/files/ahrer-harps-search-for-exoplanets-xlv-hd13808bc.pdf)
-
-Recommended citation: Ahrer, E. et al. (2021), MNRAS, 503, 1248

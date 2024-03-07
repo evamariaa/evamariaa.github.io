@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "First-Author Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can find all my publications on <u><a href="https://ui.adsabs.harvard.edu/public-libraries/AjXwsSYNQ6uoD2YCTMt2Kw">NASA ADS</a>.</u>, my first-author publications are described below. 
 
 {% include base_path %}
 

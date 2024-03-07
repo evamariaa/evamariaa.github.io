@@ -8,7 +8,3 @@ venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-lrg-beasts-wasp-94ab.pdf'
 citation: 'Ahrer, E. et al. (2022), MNRAS, 510, 4857'
 ---
-
-[Download paper here](http://evamariaa.github.io/files/ahrer-lrg-beasts-wasp-94ab.pdf)
-
-Recommended citation: Ahrer, E. et al. (2022), MNRAS, 510, 4857.

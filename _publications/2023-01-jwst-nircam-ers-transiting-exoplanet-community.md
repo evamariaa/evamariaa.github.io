@@ -8,8 +8,3 @@ venue: 'Nature'
 paperurl: 'http://evamariaa.github.io/files/paper3.pdf'
 citation: 'Ahrer, E. et al. (2023), Nature, 614, 653'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://evamariaa.github.io/files/ahrer-jwst-nircam-ers-transiting-exoplanet-community.pdf)
-
-Recommended citation: Ahrer, E. et al. (2023), Nature, 614, 653
