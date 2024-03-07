@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can find all my publications on <u><a href="https://ui.adsabs.harvard.edu/public-libraries/AjXwsSYNQ6uoD2YCTMt2Kw">NASA ADS</a>.</u>, my first-author publications are described below. 
+You can find all my publications on <a href="https://ui.adsabs.harvard.edu/public-libraries/AjXwsSYNQ6uoD2YCTMt2Kw">NASA ADS</a>, my first-author publications are described below. 
 
 {% include base_path %}
 
