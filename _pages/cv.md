@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Download my current CV <a href="https://github.com/evamariaa/evamariaa.github.io/blob/master/files/Ahrer_CV_5Dec24.pdf">here</a>. 
