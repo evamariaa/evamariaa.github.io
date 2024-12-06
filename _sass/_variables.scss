@@ -64,7 +64,7 @@ $primary-color              : #228B22;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #228B22;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -126,7 +126,7 @@ $right-sidebar-width-wide   : 0px;
 
 $susy: (
   columns: 12,
-  column-width: 120px,
+  column-width: 200px,
   gutters: 1/4,
   math: fluid,
   output: float,
