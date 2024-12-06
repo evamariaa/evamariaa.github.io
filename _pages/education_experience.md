@@ -10,10 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Positions
-* since September 2023: Postdoctoral Researcher
+* since July 2024: Postdoctoral Researcher
   * Max Planck Institut for Astronomy (MPIA)
-  * Advisors: Tom Mikal-Evans and Laura Kreidberg
-* July - August 2023: Postdoctoral Researcher
+  * German Space Agency Grant, PI: Ahrer
+* September 2023 - June 2024: Postdoctoral Researcher
+  * Max Planck Institut for Astronomy (MPIA)
+  * Advisors: Tom Evans-Soma
+* July 2023 - August 2023: Postdoctoral Researcher
   * University of Exeter
   * Advisor: Nathan Mayne
 
