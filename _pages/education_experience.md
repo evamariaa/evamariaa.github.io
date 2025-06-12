@@ -15,7 +15,7 @@ redirect_from:
   * German Space Agency Grant, PI: Ahrer
 * September 2023 - June 2024: Postdoctoral Researcher
   * Max Planck Institut for Astronomy (MPIA)
-  * Advisors: Tom Evans-Soma
+  * Advisor: Tom Evans-Soma
 * July 2023 - August 2023: Postdoctoral Researcher
   * University of Exeter
   * Advisor: Nathan Mayne
