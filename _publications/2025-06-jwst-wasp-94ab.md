@@ -6,5 +6,5 @@ excerpt: "The discovery of hot Jupiters that orbit very close to their host star
 date: 2025-05-01
 venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-jwst-wasp-94ab.pdf'
-citation: 'Ahrer, E. et al. (2025b), MNRAS, in press'
+citation: 'Ahrer, E. et al. (2025b), MNRAS, 540, 2535'
 ---
