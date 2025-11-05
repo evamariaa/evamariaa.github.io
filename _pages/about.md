@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Eva-Maria Ahrer but most people just call me Evie! My pronouns are she/her and I am a Minerva Junior Research Group Leader at the Atmospheric Physics of Exoplanets (APEx) department, Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany. Prior to that I held a postdoctoral position at MPIA and completed my PhD at the University of Warwick under the supervision of Prof Peter Wheatley.
+My name is Eva-Maria Ahrer but most people just call me Evie! My pronouns are she/her and I am a Minerva Junior Research Group Leader at the Atmospheric Physics of Exoplanets (APEx) department, Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany. 
 
 ## Research Interests
 
