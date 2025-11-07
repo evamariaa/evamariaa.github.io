@@ -6,5 +6,4 @@ excerpt: "We have performed low-resolution ground-based spectroscopy of HATS-46 
 date: 2023-06-01
 venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-lrg-beasts-hats-46b.pdf'
-citation: 'Ahrer, E. et al. (2023), MNRAS, 521, 5636'
 ---

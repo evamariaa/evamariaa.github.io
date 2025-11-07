@@ -5,5 +5,4 @@ excerpt: "We present a comprehensive analysis of 10 yr of HARPS radial velocitie
 date: 2021-05-01
 venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-harps-search-for-exoplanets-xlv-hd13808bc.pdf'
-citation: 'Ahrer, E. et al. (2021), MNRAS, 503, 1248'
 ---

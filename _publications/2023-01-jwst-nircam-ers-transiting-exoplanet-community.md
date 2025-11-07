@@ -6,5 +6,4 @@ excerpt: "Measuring the metallicity and carbon-to-oxygen (C/O) ratio in exoplane
 date: 2023-01-01
 venue: 'Nature'
 paperurl: 'http://evamariaa.github.io/files/paper3.pdf'
-citation: 'Ahrer, E. et al. (2023), Nature, 614, 653'
 ---

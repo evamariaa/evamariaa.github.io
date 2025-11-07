@@ -6,5 +6,4 @@ excerpt: "Within BOWIE-ALIGN, we aim to compare JWST spectra of a sample of orbi
 date: 2025-09-01
 venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-jwst-kelt-7b.pdf'
-citation: 'Ahrer, E. et al. (2025c), MNRAS, in press'
 ---

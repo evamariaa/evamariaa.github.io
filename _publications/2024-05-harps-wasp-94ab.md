@@ -6,5 +6,4 @@ excerpt: "We present high spectral resolution observations of the hot Jupiter WA
 date: 2024-05-01
 venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-harps-wasp-94ab.pdf'
-citation: 'Ahrer, E. et al. (2024), MNRAS, 530, 2749'
 ---

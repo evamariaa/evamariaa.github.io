@@ -6,5 +6,4 @@ excerpt: "We present a JWST NIRSpec/G395H transmission spectrum from 2.8 - 5.1 Â
 date: 2025-05-01
 venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-jwst-wasp-94ab.pdf'
-citation: 'Ahrer, E. et al. (2025b), MNRAS, 540, 2535'
 ---

@@ -6,5 +6,4 @@ excerpt: "We present an optical transmission spectrum for WASP-94A b, the first 
 date: 2022-03-01
 venue: 'MNRAS'
 paperurl: 'http://evamariaa.github.io/files/ahrer-lrg-beasts-wasp-94ab.pdf'
-citation: 'Ahrer, E. et al. (2022), MNRAS, 510, 4857'
 ---
