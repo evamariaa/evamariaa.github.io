@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a summary of the positions I held and my education. For a full CV, please download the most recent version <a href="https://evamariaa.github.io/files/Ahrer_CV_22Sep25.pdf">here</a>. 
+Below is a summary of the positions I held and my education. For a full CV, please download the most recent version <a href="https://evamariaa.github.io/files/Ahrer_CV_23Mar26.pdf">here</a>. 
 
 ## Positions
 * since July 2025: Minerva Fast Track Junior Research Group Leader  
