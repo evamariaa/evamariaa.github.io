@@ -16,5 +16,5 @@ We use facilities like the JWST as well as ground-based telescopes to collect tr
 
 
 ### Beyond Research 
-I'm very involved in outreach and ED&I activities. One outreach activity very close to my heart is the <a href="iayc.org"> International Astronomical Youth Camp (IAYC)</a>, a three-week summer camp for 16-24 year olds, where I got to know a lot of amazing people that helped me figure out this academic life. Now I got to be on the organising team and inspire young minds!
+I'm very involved in outreach and ED&I activities. One outreach activity very close to my heart is the <a href="https://www.iayc.org/"> International Astronomical Youth Camp (IAYC)</a>, a three-week summer camp for 16-24 year olds, where I got to know a lot of amazing people that helped me figure out this academic life. While I'm not involved anymore, I got to be on the organising team for a few years and (hopefully) inspired some young minds!
 I'm also keen on giving talks at schools, astronomy societies, etc. (either English or German) so please reach out if interested!
